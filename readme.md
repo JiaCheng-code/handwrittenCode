@@ -14,4 +14,5 @@
 - **finally**
 - **resolve/reject**
 - **all/allSettled**
+- **race/any**
 
