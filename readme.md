@@ -16,3 +16,6 @@
 - **all/allSettled**
 - **race/any**
 
+## 手写typeof
+
+> 写法来源:**bilibili**
